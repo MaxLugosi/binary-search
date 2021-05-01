@@ -1,3 +1,3 @@
 # A simple implementation of binary-search
 
-<a href="">click for example</a>
+<a href="https://maxlugosi.github.io/binary-search/">click for example</a>
